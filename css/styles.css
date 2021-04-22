@@ -121,7 +121,7 @@ header div p{
 .img2{
     width: 120px;
     position: absolute;
-    margin-left: 24%;
+    margin-left: 370px;
 }
 
 .textabout{
@@ -187,18 +187,19 @@ header div p{
     clip-path: circle(0% at 50% 50%);;
 }
 
-.title1{
-    margin-top: 200px;
-}
-
 .services img{
     position: relative;
     left: 690px;
     width: 80%;
+    top: -30px;
 }
 
 .services h2{
     position: absolute;
+}
+
+.services{
+    margin-top: 100px;
 }
 
 .h21{
@@ -300,17 +301,17 @@ header div p{
 
 .h13{
     position: relative;
-    left: -20px;
+    left: -35px;
 }
 
 .h11{
     position: relative;
-    left: 15px;
+    left: 45px;
 }
 
 .h14{
     position: relative;
-    left: 20px;
+    left: 0px;
 }
 
 .h12{
@@ -340,3 +341,7 @@ header div p{
     top: 130px;
 }
 
+.title11{
+    text-align: center;
+    margin-bottom: 100px;
+}
